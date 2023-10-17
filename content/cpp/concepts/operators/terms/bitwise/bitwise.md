@@ -199,7 +199,7 @@ The exclusive or (XOR) operator returns 1 if both the operands are different and
   1100
   1010
   ____
-  0110 which is 6 in base-10 binary system.
+  0110 which is 6 in base-10 decimal system.
 ```
 
 ```cpp
